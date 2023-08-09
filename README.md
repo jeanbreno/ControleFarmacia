@@ -1,0 +1,1 @@
+Projeto simples em Java para prática e fixação de conceitos de Programação Orientada a Objeto.
